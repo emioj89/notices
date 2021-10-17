@@ -1,0 +1,27 @@
+You can use web frameworks many types of web apps. You can use them for developing blogs, websites, forms, content management systems (CMSs), and more. They provide you with the flexibility to create applications aligned perfectly with your business rules and user needs.
+
+Using web frameworks saves you time which you can invest better in other vital areas. Without creating everything from scratch or wasting time on low value-added, repetitive tasks, you’ll free yourself up to focus on different, arguably more critical needs.
+
+Here’s why using web frameworks is helpful:
+
+URL mapping: Web frameworks help in URL mapping by simplifying site indexing. For this, it enables you to create a clear, attractive, SEO-friendly site name. URL mapping also allows easy access to site URLs.
+Security: Using a popular framework comes with excellent security implications. Each has a vast developer community to strengthen the framework by identifying security loopholes and fixing them quickly, making it safe for your applications.
+Cost: Most web frameworks are open source and free, allowing you to cut down development costs. You can also quickly finish many tasks more rapidly to accelerate the time to market.
+Efficiency: The entire development process becomes effortless using a framework as you don’t need to write code for each component or feature. You can use pre-built functions to save effort and time.
+Support: With a broad community of developers and comprehensive documentation, you can understand frameworks with ease. And even if you encounter some difficulties, you can reach out to other fellow developers and experts to clear your doubts.
+
+
+
+Pourquoi ne pas utiliser la structure MVC de base ?
+Par défaut, les frameworks groupent les classes en fonction de leur rôle (controllers, entities, repositories, events...). Ce découpage est logique pour un petit projet, mais s'avère très rapidement limitant lorsque l'on travaille sur un projet plus conséquent (on se retrouve avec des dossiers contenant de nombreux fichiers (qui ne concernent pas forcément les mêmes sections du site).
+
+
+
+
+I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping the HTML markup clean and simple.
+
+But recently, I was presented with a unique UI conundrum to solve. Essentially, any given grid cell could have a button that would open up another, larger area that is also part of the grid. But this new larger grid cell needed to be:
+
+right below the cell that opened it, and
+full width.
+Turns out there is a nice solution to it, and in the spirit of CSS Grid itself, it only involves a couple of lines of code. In this article, I’ll combine three one-line CSS Grid “tricks” to solve this. No JavaScript needed at all.
